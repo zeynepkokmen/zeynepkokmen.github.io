@@ -137,7 +137,7 @@ li {
 .pro-image {
   width: 200px;
   margin-left: 80px;
-
+  border-radius: 50%;
   height: 250px;
 }
 
